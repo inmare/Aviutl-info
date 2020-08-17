@@ -223,7 +223,7 @@ defaults:
       author_profile: false
       share: false
       comments: false
-      sidebar:
+      sidebar: true
         nav: "docs"
   # _recipes
   - scope:
@@ -249,7 +249,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
 
 
