@@ -1,7 +1,7 @@
 {% for post in site.posts %}
   {% if post.specific == page.specific %}
     {% if prev %}
-      <a href="{{ post.url }}" class="pagination--pager" title="{{ page.previous.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+      <a href="/Aviutl-info{{ post.url }}" class="pagination--pager" title="{{ page.previous.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
       {% break %}
     {% elsif page.start %}
       <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
@@ -17,7 +17,7 @@
 {% for post in site.posts reversed %}
   {% if post.specific == page.specific %}
     {% if next %}
-      <a href="{{ post.url }}" class="pagination--pager" title="{{ page.next.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
+      <a href="/Aviutl-info{{ post.url }}" class="pagination--pager" title="{{ page.next.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
       {% break %}
     {% elsif page.end %}
       <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
