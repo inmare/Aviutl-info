@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Aviutl Information"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -207,7 +207,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 20 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -276,9 +276,16 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      show_date: true
       comments: true
       share: true
       related: true
       sidebar:
-        title: "목차/Index"
+        title: "목차"
         nav: "aviutl-info"
+      toc: true
+      toc_sticky: true
+      toc_label: "목차"
+      pagination: true
+      header:
+        teaser: .\images\default\no-image.png
