@@ -1,6 +1,6 @@
 ---
 title: "소개"
-permalink: /about/
+permalink: /about
 layout: single
 sidebar:
   title: "목차"

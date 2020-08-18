@@ -1,7 +1,7 @@
 ---
 title: 태그
 layout: tags
-permalink: /tags/
+permalink: /tags
 taxonomy: Blog
 classes: wide
 sidebar:

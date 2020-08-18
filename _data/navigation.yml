@@ -1,21 +1,21 @@
 # main links
 main:
 - title: "소개"
-  url: /about/
+  url: /about
 - title: "공지"
-  url: /notice/
+  url: /notice
 - title: "태그"
-  url: /tags/
+  url: /tags
 - title: "카테고리"
-  url: /categories/
+  url: /categories
 - title: "검색"
-  url: /search/
+  url: /search
 
 aviutl-info:
 - title: "Aviutl 영문판+알파 다운받기"
-  url: /download-plus/
+  url: /download-plus
 - title: "기본조작"
-  url: /basic-control/
+  url: /basic-control
 - title: "중급조작"
   url: /404-error
 - title: "응용하기"

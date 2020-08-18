@@ -1,6 +1,6 @@
 ---
 title:  "Aviutl 영문판+알파 다운받기"
-permalink: /download-plus/
+permalink: /download-plus
 layout: single
 pagination: false
 sidebar:

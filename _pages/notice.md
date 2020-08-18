@@ -1,7 +1,7 @@
 ---
 title: "공지"
 layout: home-specific
-permalink: /notice/
+permalink: /notice
 specific: 공지
 classes: wide
 sidebar:
