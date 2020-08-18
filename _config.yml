@@ -288,4 +288,4 @@ defaults:
       toc_label: "목차"
       pagination: true
       header:
-        teaser: .\images\no-image.png
+        teaser: /images/no-image.png
