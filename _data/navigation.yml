@@ -12,15 +12,21 @@ main:
   url: /search
 
 aviutl-info:
+- title: "프로그램 소개"
+  url: /introduce
 - title: "Aviutl 영문판+알파 다운받기"
   url: /download-plus
 - title: "기본조작"
-  url: /basic-control
+  url: /basic
 - title: "중급조작"
   url: /404-error
 - title: "응용하기"
   url: /404-error
 - title: "Aviutl +알파"
+  url: /404-error
+- title: "그 외 영상 관련 지식"
+  url: /404-error
+- title: "Aviutl, 영상 관련 소식"
   url: /404-error
 - title: "스크립트, 플러그인 소개"
   children:
@@ -28,5 +34,3 @@ aviutl-info:
       url: /404-error
     - title: "TIM님"
       url: /404-error
-- title: "그외 영상 관련 지식"
-  url: /404-error
