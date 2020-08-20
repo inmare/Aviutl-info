@@ -213,12 +213,12 @@ figure {
   -webkit-box-align: start;
   align-items: flex-start;
   flex-wrap: wrap;
-  margin: 2em 0;
+  margin: 0.3em 0;
 
   img,
   iframe,
   .fluid-width-video-wrapper {
-    margin-bottom: 1em;
+    margin-bottom: 0.3em;
   }
 
   img {
@@ -236,7 +236,7 @@ figure {
     > a,
     > img {
       @include breakpoint($small) {
-        width: calc(50% - 0.5em);
+        width: calc(50% - 0.2em);
       }
     }
 

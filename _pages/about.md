@@ -12,7 +12,7 @@ share: true
 last_modified_at: 2020-08-19
 ---
 이 블로그는 무료 영상 편집 소프트웨어인 AviUtl과 관련된 정보를 소개하는 블로그입니다.
-
+ 
 # 1. 시작하며
 예전부터 한국어로 된 Aviutl 관련 정보가 유튜브나 다른 커뮤니티 곳곳에 펴져있는 점이 아쉬웠고, 그래서 이렇게 블로그를 만들게 되었습니다.  
 앞으로 관련된 정보를 시간이 되는 한 여기에 올릴테니 잘 봐주시면 감사하겠습니다.  
@@ -20,7 +20,8 @@ last_modified_at: 2020-08-19
  
 # 2. 블로그 소개
 블로그의 홈 화면을 들어가시면 다음과 같은 화면이 뜹니다.(추후에 업데이트 됨에 따라 세부적인 모습은 다를 수도 있습니다.)
-{% include image-caption.html url="https://i.postimg.cc/v8fXQFpq/site-item-list.png" description="홈 화면의 사진" %}
+![홈 화면의 사진](https://i.postimg.cc/x8rLf6Tk/site-item-list.png)
+<figcaption>홈 화면의 사진</figcaption>
 ## 패널들의 기능
 이때 각 패널들의 기능은 아래와 같습니다.
 1. 클릭 하면 홈 화면으로 이동합니다.

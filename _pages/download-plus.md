@@ -1,20 +1,12 @@
 ---
 title:  "Aviutl 영문판+알파 다운받기"
 permalink: /download-plus
-layout: single
-pagination: false
+layout: home-specific
+specific: 다운로드
+entries_layout: grid
+classes: wide
 sidebar:
   title: "목차"
   nav: "aviutl-info"
-toc: true
-toc_sticky: true
-toc_label: "목차"
 ---
-# Aviutl +알파 버전 다운로드
-Aviutl +알파 버전 다운로드
-
-## 목차1
-목차1
-
-## 목차2
-목차2
+Aviutl을 다운로드 하는 방법에 대해서 설명하는 페이지입니다.
