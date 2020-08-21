@@ -1,7 +1,7 @@
 ---
 title: "1.시작하기 전에"
 excerpt: "다운로드 방법이 왜 여러가지인지에 대해 설명을 하는 글입니다."
-permalink: /download-plus/:title
+permalink: /download/:title
 specific: 다운로드
 start: true
 toc: false
